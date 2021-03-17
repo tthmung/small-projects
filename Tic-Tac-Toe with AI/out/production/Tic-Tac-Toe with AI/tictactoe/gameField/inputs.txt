@@ -1,0 +1,8 @@
+1. exit
+2. player player
+3. player easy
+4. easy player
+5. player medium
+6. medium player
+7. player hard
+8. hard player
