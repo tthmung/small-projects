@@ -1,2 +1,2 @@
-# small-projects
-Inteded for interviews and related stuff. 
+# projects
+Inteded for interviews and projects to have fun.
