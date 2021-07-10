@@ -2,8 +2,6 @@ import re
 
 words = []
 
-#sadhasuidhas
-
 # Review the titles and put them into a array for future use
 def reviewInits():
     reader = open("titles.txt", "r")
