@@ -1,5 +1,4 @@
-import re
-
+# Array to store the titles
 words = []
 
 # Review the titles and put them into a array for future use
