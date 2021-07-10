@@ -1,2 +1,2 @@
 # projects
-Inteded for interviews and projects to have fun.
+These are personal projects that are intended for interviews and for learning.
